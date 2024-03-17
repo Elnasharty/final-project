@@ -1,0 +1,19 @@
+.size {
+    width: 100px;
+    height: 4px;
+    background-color: black;}
+    .Portbg{
+        background-color: #1abc9c;
+    }
+    .layout{
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        padding: 10px;
+    }
+    .layout:hover{
+        opacity: 0.9;
+        transition: 0.7s;
+    }
